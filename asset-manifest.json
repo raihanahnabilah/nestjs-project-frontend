@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://raihanahnabilah.github.io/nestjs-project-frontend/static/css/main.985582f7.css",
+    "main.js": "https://raihanahnabilah.github.io/nestjs-project-frontend/static/js/main.42f2c3ba.js",
+    "index.html": "https://raihanahnabilah.github.io/nestjs-project-frontend/index.html",
+    "main.985582f7.css.map": "https://raihanahnabilah.github.io/nestjs-project-frontend/static/css/main.985582f7.css.map",
+    "main.42f2c3ba.js.map": "https://raihanahnabilah.github.io/nestjs-project-frontend/static/js/main.42f2c3ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985582f7.css",
+    "static/js/main.42f2c3ba.js"
+  ]
+}
