@@ -84,6 +84,15 @@ class CreateTaskPage extends Component {
           >
             CREATE TASK
           </Button>
+          <Button
+            style={{ marginTop: '10px', backgroundColor: 'red' }}
+            fullWidth
+            variant="contained"
+            color="primary"
+            onClick={() => { window.location.hash = '/tasks'; }}
+          >
+            Cancel
+          </Button>
         </FormContainer>
       </FormWrapper>
     );
